@@ -45,7 +45,7 @@
 <div align="center">
   <ul align="left">
     <li>I am currently working on <b>Full Stack Web Development</b></li>
-    <li>I am currently learning <b>Deep Learning, Computer Vision & Advanced Java</b></li>
+    <li>I am currently learning <b>Deep Learning, Computer Vision & </b></li>
     <li>I am looking to collaborate on <b>AI, ML & Web Dev Projects</b></li>
     <li>Fun fact: <b>I have 330+ contributions this year</b></li>
   </ul>
