@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/ce/3c/6f/ce3c6f1c491599b50b86a8b7923485e9.gif" width="100%" />
 </div>
 
 <div align="center">
@@ -80,27 +80,15 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-
-<!-- Main stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=student-srijit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
-
-<br/>
-
-<!-- Top languages (compact) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=student-srijit&layout=compact&theme=tokyonight&hide_border=true)
-
-<br/>
-
-<!-- Contribution streak -->
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=student-srijit&theme=tokyonight&hide_border=true&date_format=%5BY-%5Dm-%5Bd%5D)
-
-<br/>
-
-<!-- Trophy badges -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=student-srijit&theme=tokyonight&no-bg=true&hide_border=true)](https://github.com/student-srijit)
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=student-srijit&theme=tokyonight" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=student-srijit&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=student-srijit&theme=tokyonight" />
 </div>
 
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">✍️ Random Dev Quote</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
