@@ -32,9 +32,13 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=student-srijit&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=student-srijit&theme=dark&hide_border=true&card_width=705" alt="Streak Stats" />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=student-srijit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-srijit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=student-srijit&show_icons=true&theme=dark&hide_border=true&card_width=705" alt="GitHub Stats" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-srijit&layout=compact&theme=dark&hide_border=true&card_width=705" alt="Top Langs" />
 </div>
