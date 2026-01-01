@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://holopin.io/@student-srijit">
-    <img src="https://holopin.me/student-srijit" alt="An image of @student-srijit's Holopin badges" />
+  <a href="https://holopin.io/@studentsrijit">
+    <img src="https://holopin.me/studentsrijit" alt="Srijit's Holopin Badges" />
   </a>
 </div>
 
