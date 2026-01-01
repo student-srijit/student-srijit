@@ -78,14 +78,12 @@
 
 <br/>
 
-<h2 align="center">GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=student-srijit&theme=dark&hide_border=true&card_width=800" alt="Streak Stats" />
-  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=student-srijit&theme=tokyonight" />
   <br/>
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=student-srijit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-srijit&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=student-srijit&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=student-srijit&theme=tokyonight" />
 </div>
+
+<br/>
