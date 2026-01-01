@@ -34,6 +34,9 @@
   <a href="https://www.instagram.com/srijit__das__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.kaggle.com/">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+  </a>
   <a href="mailto:srijitd248@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -82,7 +85,7 @@
   <br/>
   <br/>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=student-srijit&theme=dark" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=student-srijit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=student-srijit&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-srijit&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" />
 </div>
