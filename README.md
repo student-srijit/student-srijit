@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ce/3c/6f/ce3c6f1c491599b50b86a8b7923485e9.gif" width="100%" />
+  <img src="https://media.giphy.com/media/L1R1TVTh2uK0m98mMO/giphy.gif" width="100%" alt="Anime Coding" />
 </div>
 
 <div align="center">
@@ -80,10 +80,13 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=student-srijit&theme=tokyonight" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=student-srijit&theme=dark&hide_border=true&card_width=800" alt="Streak Stats" />
   <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=student-srijit&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=student-srijit&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-srijit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=student-srijit&show_icons=true&theme=tokyonight&hide_border=true" alt="General Stats" />
 </div>
 
 <br/>
