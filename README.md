@@ -80,13 +80,20 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=student-srijit&theme=dark&hide_border=true&card_width=800" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=student-srijit&theme=dark&hide_border=true&card_width=800" alt="Streak Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-srijit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=student-srijit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=student-srijit&show_icons=true&theme=tokyonight&hide_border=true" alt="General Stats" />
+  <img src="https://github-readme-stats.demolab.com/api?username=student-srijit&show_icons=true&theme=tokyonight&hide_border=true" alt="General Stats" />
+</div>
+
+<br/>
+
+<h2 align="center">🐍 Contribution Activity</h2>
+<div align="center">
+  <img src="https://github.com/student-srijit/student-srijit/raw/output/snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
