@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Srijit! 👋</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Java+%7C+React+%7C+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2096F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Java+%7C+React+%7C+Next.js" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,9 +32,9 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=student-srijit&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=student-srijit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-srijit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-srijit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
