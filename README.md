@@ -34,7 +34,7 @@
   <a href="https://www.instagram.com/srijit__das__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/">
+  <a href="https://www.kaggle.com/srijitdasml">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
   <a href="mailto:srijitd248@gmail.com">
