@@ -86,3 +86,8 @@
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=student-srijit&theme=dark" alt="Top Languages" />
 </div>
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
