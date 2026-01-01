@@ -48,7 +48,7 @@
 <div align="center">
   <ul align="left">
     <li>I am currently working on <b>Full Stack Web Development</b></li>
-    <li>I am currently learning <b>Deep Learning, Computer Vision & Advanced Java</b></li>
+    <li>I am currently learning <b>Deep Learning, Computer Vision</b></li>
     <li>I am looking to collaborate on <b>AI, ML & Web Dev Projects</b></li>
     <li>Fun fact: <b>I have 330+ contributions this year</b></li>
   </ul>
@@ -80,13 +80,27 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=student-srijit&theme=tokyonight" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=student-srijit&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=student-srijit&theme=tokyonight" />
-</div>
+
+<!-- Main stats -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=student-srijit&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
 
 <br/>
+
+<!-- Top languages (compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=student-srijit&layout=compact&theme=tokyonight&hide_border=true)
+
+<br/>
+
+<!-- Contribution streak -->
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=student-srijit&theme=tokyonight&hide_border=true&date_format=%5BY-%5Dm-%5Bd%5D)
+
+<br/>
+
+<!-- Trophy badges -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=student-srijit&theme=tokyonight&no-bg=true&hide_border=true)](https://github.com/student-srijit)
+
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
