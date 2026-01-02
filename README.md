@@ -6,12 +6,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
-<div align="center">
-  <a href="https://holopin.io/@studentsrijit">
-    <img src="https://holopin.me/studentsrijit" alt="Holopin Badges" />
-  </a>
-</div>
-
 <br/>
 
 <p align="center"> 
@@ -56,6 +50,13 @@
 </div>
 
 <br/>
+
+
+<div align="center">
+  <a href="https://holopin.io/@studentsrijit">
+    <img src="https://holopin.me/studentsrijit" alt="Holopin Badges" />
+  </a>
+</div>
 
 <h2 align="center">Tech Stack & Skills</h2>
 <div align="center">
