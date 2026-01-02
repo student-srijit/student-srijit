@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f9/b8/8d/f9b88deeae101d6a8572063bb63c286e.gif" width="900" alt="cyberpunk gif" />
+</p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
